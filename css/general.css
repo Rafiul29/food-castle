@@ -195,7 +195,7 @@ General Components
     list-style: none;
     display: flex;
     flex-direction: column;
-    grid:1.6rem;
+    gap:1.6rem;
 }
 .list-item{
     font-size: 1.8rem;
