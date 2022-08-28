@@ -351,8 +351,8 @@ text-align: center;
 .pricing-plan-complete::after{
 content: "REST VALUE";
 position:absolute;
-top: 4%;
-right: -20%;
+top: 3%;
+right: -21%;
 font-size: 1.4rem;
 font-weight: 700;
 background-color: #ffd43b;
